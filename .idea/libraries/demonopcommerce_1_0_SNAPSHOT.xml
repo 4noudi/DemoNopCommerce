@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="demonopcommerce-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/demonopcommerce-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

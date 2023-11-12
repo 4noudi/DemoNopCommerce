@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33026cb2-8651-4426-a9d8-5d830e45ea4d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/F01_Register.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/F01_Register.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/F02_Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/F02_Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/F04_Search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/F04_Search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/F05_hoverCategories.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/F05_hoverCategories.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/F06_homeSliders.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/F06_homeSliders.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/pages/P01_Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P01_Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/pages/P02_Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P02_Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/pages/P03_Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P03_Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D01_Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D01_Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D02_Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D02_Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D04_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D04_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D05_hoverCategories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D05_hoverCategories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D06_homeSliders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D06_homeSliders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D07_followUs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D07_followUs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D08_Wishlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D08_Wishlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/F01_Register.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/F01_Register.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/F02_Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/F02_Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/F04_Search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/F04_Search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/F05_hoverCategories.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/F05_hoverCategories.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/F06_homeSliders.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/F06_homeSliders.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/F07_followUs.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/F07_followUs.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/F08_Wishlist.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/F08_Wishlist.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cukes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cukes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rerun.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/rerun.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/pages/P01_Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/pages/P01_Home.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/pages/P02_Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/pages/P02_Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/pages/P03_Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/pages/P03_Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D01_Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D01_Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D02_Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D02_Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D04_Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D04_Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D05_hoverCategories.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D05_hoverCategories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D06_homeSliders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D06_homeSliders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D07_followUs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D07_followUs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D08_Wishlist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/D08_Wishlist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/stepDefs/Hooks.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Y5HkgHM4d5DwxvjvzTgTgHeXp0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: User click on Add to cart button for a product multiple times">
+    <configuration name="Scenario: User click on Add to cart button for a product multiple times" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/F09_ShoppingCart.feature" />
+      <option name="GLUE" value="org.example.stepDefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="demonopcommerce" />
+      <option name="NAME_FILTER" value="^User click on Add to cart button for a product multiple times$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User click on Add to cart button for a product multiple times$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User click on Add to cart button for a product multiple times" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User click on Add to cart button multiple times" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/F09_ShoppingCart.feature" />
+      <option name="GLUE" value="org.example.stepDefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="demonopcommerce" />
+      <option name="NAME_FILTER" value="^User click on Add to cart button multiple times$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User click on Add to cart button multiple times$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User click on Add to cart button multiple times" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: User click on Add to cart button for a product multiple times" />
+        <item itemvalue="Cucumber Java.Scenario: User click on Add to cart button multiple times" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33026cb2-8651-4426-a9d8-5d830e45ea4d" name="Changes" comment="" />
+      <created>1699808666347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699808666347</updated>
+      <workItem from="1699808667337" duration="3326000" />
+      <workItem from="1699815117174" duration="1387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
